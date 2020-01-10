@@ -6,5 +6,3 @@ def using_while
   end
   puts "You lifted it!"
 end
-
-
