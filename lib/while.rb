@@ -4,5 +4,6 @@ def using_while
     puts "Couldn't lift it!"
     levitation_force += 1
   end
-  puts "You lifted it!"
 end
+
+puts "You lifted it!"
