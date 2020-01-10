@@ -6,4 +6,4 @@ def using_while
   end
 end
 
-puts "You lifted it!"
+puts "Wingardium Leviosa"
